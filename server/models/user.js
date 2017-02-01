@@ -1,4 +1,4 @@
-module.exports = function(sequelize, DataTypes){
+module.exports = function(sequelize,DataTypes) {
 //user model created using sequelize
 //talks to the table user
 // var user = 

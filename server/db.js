@@ -9,7 +9,7 @@ sequelize.authenticate().then(
 	function() {
 		console.log("connected to workoutlog postgres db");
 	},
-	function(err){
+	function(err) {
 		console.log(err);
 	}
 );
